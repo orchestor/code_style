@@ -77,11 +77,11 @@ prevails, all your submissions must adapt to its bugs.
 
 **Mandatory part**
 
-- A structure’s name must start bys_.
-- A typedef’s name must start byt_.
-- A union’s name must start byu_.
-- An enum’s name must start bye_.
-- A global’s name must start byg_.
+- A structure’s name must start s_.
+- A typedef’s name must start t_.
+- A union’s name must start u_.
+- An enum’s name must start e_.
+- A global’s name must start g_.
 - Variables and functions names can only contain lowercases, digits and ’_’ (Unix
     Case).
 - Files and directories names can only contain lowercases, digits and ’_’ (Unix Case).
